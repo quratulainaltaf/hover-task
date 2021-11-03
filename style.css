@@ -1,0 +1,45 @@
+*
+{
+	font-size:18px;
+	font-family:sans serif;
+}
+table
+{
+	border-spacing:0;
+	border-collapse:collapse;
+}
+div{
+
+	width:800px;
+	height:525px;
+	background:#DEE99E;
+}
+th
+{
+	width:200px;
+	height:150px;
+}
+td
+{
+	background:black;
+	color:white;
+	border-collapse:collapse;
+	width:800px;
+	height:183px;
+}
+td:hover
+{
+	
+	background:orange;
+}
+ul:hover
+{
+	background:green;
+	color:black;
+}
+li:hover
+{
+	background:pink;
+	color:white;
+	list-style:decimal;
+}
